@@ -3,7 +3,7 @@
 <head>
 	<title>Login</title>
 	<link rel="stylesheet" type="text/css" href="lib/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="lib/css/style.css">
+	<link rel="stylesheet" type="text/css" href="lib/css/style-login-reg.css">
 	<script type="text/javascript" src="lib/js/bootstrap.min.js"></script>
 </head>
 <body id="LoginForm">
