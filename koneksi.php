@@ -2,7 +2,7 @@
 $host   = 'localhost';
 $uname  = 'naufal';
 $pass   = 'naufalroot';
-$db     = 'mikrotik';
+$db     = 'cool_map';
 $mysqli = new mysqli($host, $uname, $pass, $db);
 
 if ($mysqli->connect_errno) {
