@@ -21,12 +21,12 @@
 	      	<img src="lib/img/face.jpg" class="profile-img-card">
    		 		<form>
 			  <div class="form-group">
-				    <label>Email address</label>
+				    <label for="InputEmail">Email address</label>
 				    <input type="email" class="form-control" id="" aria-describedby="emailHelp" placeholder="Masukkan email">
-				    <small id="emailHelp" class="form-text text-muted">Kami tidak akan memberotahukan email anda pada siapapun.</small>
+				    <small id="emailHelp" class="form-text text-muted">Kami tidak akan memberitahukan email anda pada siapapun.</small>
 				  </div>
 			  <div class="form-group">
-			    <label for="exampleInputPassword1">Password</label>
+			    <label for="InputPassword">Password</label>
 			    <input type="password" class="form-control"placeholder="Password">
 			  </div>
 			  <div class="form-group">
