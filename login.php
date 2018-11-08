@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
@@ -13,32 +14,33 @@
     <!-- Add Material CSS, replace Bootstrap CSS -->
     <link href="css/material.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/style-login-reg.css">
-  </head>
-  <body>
-  	<section class="login-inner">
-	    <div class="login-middle">
-	      <div class="login-details">
-	      	<img src="lib/img/face.jpg" class="profile-img-card">
-   		 		<form>
-			  <div class="form-group">
-				    <label for="InputEmail">Email address</label>
-				    <input type="email" class="form-control" id="" aria-describedby="emailHelp" placeholder="Masukkan email">
-				    <small id="emailHelp" class="form-text text-muted">Kami tidak akan memberitahukan email anda pada siapapun.</small>
-				  </div>
-			  <div class="form-group">
-			    <label for="InputPassword">Password</label>
-			    <input type="password" class="form-control"placeholder="Password">
-			  </div>
-			  <div class="form-group">
-				    <div class="forgot">
-				    	<a href="#">Lupa kata sandi ?</a>
-				    </div>
-			  </div>
-			  <button type="submit" class="btn btn-primary">Submit</button>
-				</form>
-			</div>
-		</div>
-	</section>
+</head>
+
+<body>
+    <section class="login-inner">
+        <div class="login-middle">
+            <div class="login-details">
+                <img src="lib/img/face.jpg" class="profile-img-card">
+                <form>
+                    <div class="form-group">
+                        <label for="InputEmail">Email address</label>
+                        <input type="email" class="form-control" id="" aria-describedby="emailHelp" placeholder="Masukkan email">
+                        <small id="emailHelp" class="form-text text-muted">Kami tidak akan memberitahukan email anda pada siapapun.</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="InputPassword">Password</label>
+                        <input type="password" class="form-control" placeholder="Password">
+                    </div>
+                    <div class="form-group">
+                        <div class="forgot">
+                            <a href="#">Lupa kata sandi ?</a>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+        </div>
+    </section>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -48,5 +50,6 @@
 
     <!-- Then Material JavaScript on top of Bootstrap JavaScript -->
     <script src="js/material.min.js"></script>
-  </body>
+</body>
+
 </html>
